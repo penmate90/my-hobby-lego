@@ -79,6 +79,11 @@ a:hover{
 #info{
     font-weight: 800;
 }
+
+
+
+
 html{
-    scroll-behavior: smooth;
+   scroll-behaviour:smooth; 
+    
 }
